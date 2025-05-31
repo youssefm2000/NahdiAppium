@@ -23,7 +23,7 @@
 
 
 
-#### ✅Test Case 2 : Get all posts
+#### ✅Test Case 2 : Place Order
 - i click on cart icon
 - I select a product from cart page
 - I click on Checkout Button
@@ -35,7 +35,7 @@
 - I click on place order button
 - I should see the confirmation message
 
-#### ✅Test Case 3 : Get post with ID 20
+#### ✅Test Case 3 : Add Product To Wisl list
 - the user adds a product to the wish list from the home page
 - the user opens the wish list
 - the product should be displayed in the wish list
