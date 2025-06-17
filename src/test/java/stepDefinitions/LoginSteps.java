@@ -1,8 +1,7 @@
 package stepDefinitions;
-
 import io.appium.java_client.AppiumBy;
 import io.cucumber.java.en.*;
-import io.qameta.allure.*; // Required for Allure annotations
+import io.qameta.allure.*; 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -10,7 +9,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import setup.AppiumDriverManager;
 import utils.JsonFileManager;
-
 import java.io.IOException;
 import java.time.Duration;
 
